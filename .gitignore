@@ -1,9 +1,4 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 import re
-
 def check_password_strength(password):
     # Define criteria for password strength
     min_length = 8
